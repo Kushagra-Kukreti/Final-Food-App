@@ -1,0 +1,15 @@
+
+#home{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+    overflow-y: hidden;
+    background-image: url("/public/images/home1.jpg");
+}
+.black{
+    color: black;
+}
+.bold{
+    font-weight: 600;
+}
